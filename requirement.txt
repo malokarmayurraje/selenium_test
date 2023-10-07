@@ -1,0 +1,5 @@
+pycharm
+python
+selenium
+pytest
+openpyxl
